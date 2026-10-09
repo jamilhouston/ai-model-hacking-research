@@ -14,7 +14,7 @@ A research presentation examining security and governance challenges associated 
 
 ## Presentation
 
-The 13-page slide deck includes an introduction, incident overview, technical analysis, security implications, conclusions, and references. The PDF will be placed in this repository after the presentation file is uploaded.
+[View the 13-page presentation (PDF)](AI%20Model%20Hacking.pdf). It includes an introduction, incident overview, technical analysis, security implications, conclusions, and references.
 
 ## Contributors
 
